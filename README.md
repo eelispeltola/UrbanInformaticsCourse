@@ -1,4 +1,3 @@
-# UrbanInformaticsCourse
 For Sustainable Design Studio / Urban Informatics course Fall 2017
 
 

@@ -1,0 +1,19 @@
+Legend:
+
+First number is placement in original file. From second number onwards:
+
+nn-1		Car passing
+nn-2		Speech
+nn-2-0		Speech male
+nn-2-1		Speech female
+nn-2-n-0	Speech Finnish
+nn-2-n-1	Speech English
+nn-2-n-2	Speech other
+nn-2-n-n-1  Multiple speaking
+
+Examples:
+08-2-0-1-1	Eighth clip from the recorded file. Speech - male - English - Multiple people speaking
+
+02-2-1-0	Second clip from the recorded file. Speech - female - Finnish - Single speaking
+
+03-1		Third clip from the recorded file. Car passing.
